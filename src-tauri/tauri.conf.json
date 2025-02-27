@@ -12,9 +12,9 @@
   "app": {
     "windows": [
       {
-        "title": "savko",
-        "width": 800,
-        "height": 600
+        "title": "Savko Clipboard Manager",
+        "width": 360,
+        "height": 400
       }
     ],
     "security": {
